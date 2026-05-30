@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Vishwa Gaurav </br> 
+<h1 align="center"> Hi 👋🏻, I'm Sumiran Sanjyal </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
@@ -6,15 +6,13 @@
  <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<a href="https://www.linkedin.com/in/sumiran-sanjyal-496296362/" target="_blank"></a>
+<a href="https://www.instagram.com/sumiran.sanjyal/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
-[Vishwa Gaurav - Portfolio](https://itsvg.in) ,
-</> and Crafted with 💛 by Vishwa Gaurav
+
 
 ### <img src="https://ytmp.itsvg.in/PicsArt_11-13-11.55.52.png" width="16px" />  YTMP : YouTube Music Player 
 [YTMP : YouTube Music Player](https://ytmp.itsvg.in) is the First and the Only YouTube Music Player that lets you play any youtube video as audio with tons of features such as Background play, Playlist merger, No Ads, and many more for free while saving up to 98% of your data.
